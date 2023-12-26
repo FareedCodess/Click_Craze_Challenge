@@ -5,3 +5,5 @@ features objects of different values falling from the top of the screen, and the
 must quickly click on these objects before they leave the board. The game keeps
 track of the player's score and displays the top 5 scores once the game is over. It
 also displays a play again button for the player to keep playing.
+
+For more details, please refer to 'ProjectReport.pdf' 
